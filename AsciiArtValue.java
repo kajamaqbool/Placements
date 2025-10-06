@@ -7,7 +7,7 @@ class AsciiArtValue {
 
         while (true) {
             String line = sc.nextLine();
-            if (line.equals("end")) {
+            if (line.equals("END")) {
                 break;
             }
             for(int i=0; i<line.length(); i++) {
