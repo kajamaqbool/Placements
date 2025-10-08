@@ -1,3 +1,5 @@
+package Day1;
+
 import java.util.Scanner;
 
 public class CharacterPropertyAnalysis {
@@ -23,3 +25,5 @@ public class CharacterPropertyAnalysis {
         }
     }
 }
+
+

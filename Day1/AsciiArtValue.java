@@ -1,3 +1,5 @@
+package Day1;
+
 import java.util.Scanner;
 
 class AsciiArtValue {
@@ -18,3 +20,4 @@ class AsciiArtValue {
         sc.close();
     }
 }
+
